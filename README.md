@@ -11,8 +11,8 @@
    <img src="https://github.com/urvashi6065/MediaBooster_Project/blob/main/image10.png" heigth="500"/width="300"/>
    <img src="https://github.com/urvashi6065/MediaBooster_Project/blob/main/image9.png" heigth="500"/width="300"/>
    <img src="https://github.com/urvashi6065/MediaBooster_Project/blob/main/image12.png" heigth="500"/width="300"/>
-   <img src="https://github.com/urvashi6065/MediaBooster_Project/blob/main/image13.png" heigth="500"/width="300"/>
-   <img src="https://github.com/urvashi6065/MediaBooster_Project/blob/main/image14.png" heigth="500"/width="300"/>
-   <img src="https://github.com/urvashi6065/MediaBooster_Project/blob/main/image15.png" heigth="500"/width="300"/>
+   <img src="https://github.com/urvashi6065/MediaBooster_Project/blob/main/image20.png" heigth="500"/width="300"/>
+   <img src="https://github.com/urvashi6065/MediaBooster_Project/blob/main/image21.png" heigth="500"/width="300"/>
+   <img src="https://github.com/urvashi6065/MediaBooster_Project/blob/main/image22.png" heigth="500"/width="300"/>
 
 </p>
